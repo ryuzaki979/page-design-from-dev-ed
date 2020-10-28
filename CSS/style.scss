@@ -1,0 +1,24 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 65%;
+    
+}
+h2 {
+    font-size: 4rem;
+    font-family: var(--lobstar);
+    color: white;
+}
+
+
+@import 'home';
+@import 'root';
+@import 'feature';
+@import 'cs-section';
